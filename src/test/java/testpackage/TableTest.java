@@ -10,6 +10,7 @@ public class TableTest {
 
 		System.out.println("Added code by slaveBranch here");
 		System.out.println("Code added by slaveBranch2");
+		System.out.println("Code added by slaveBranch2 second time");
 
 	}
 
