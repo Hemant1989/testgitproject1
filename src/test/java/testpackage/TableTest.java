@@ -7,7 +7,10 @@ public class TableTest {
 		for(int i=1;i<=10;i++) {
 			System.out.println(num + "*" + i + "= " + num*i);
 		}
+
+		System.out.println("Added code by slaveBranch here");
 		System.out.println("Code added by slaveBranch2");
+
 	}
 
 }
