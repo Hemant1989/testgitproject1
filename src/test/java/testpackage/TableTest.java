@@ -8,6 +8,8 @@ public class TableTest {
 			System.out.println(num + "*" + i + "= " + num*i);
 		}
 		System.out.println("Code added by slaveBranch2");
+		System.out.println("Code added by slaveBranch2 second time");
+
 	}
 
 }
